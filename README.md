@@ -9,3 +9,5 @@ then provide the shortest possible summary of the question in "Title".
 Check "Preview" to review what you wrote and then 
 click the big friendly green "Submit new issue" button.)
 
+See also:
+- https://www.kusi.com/san-diego-people-san-diegos-library-next-program/ Interview with Megan and Ed about the program, and with one of the students of this Intro class.
